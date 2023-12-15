@@ -56,5 +56,7 @@ p{
 }
 .icon
 {
-  margin-right: 10px; 
+  margin-right: 10px;
+  background-color: #120eee; 
+  fill: #d0d7db;
 }
